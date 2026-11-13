@@ -2,6 +2,10 @@
 
 Repositório de apoio à disciplina de Análise Avançada de Dados para Tomada de Decisão, ministrada para alunos do 3º semestre do curso de Administração.
 
+## Ementa
+
+Fundamentos de data science e big data. Preparação e pré-processamento de dados complexos. Aprendizado supervisionado: classificação e regressão avançada. Aprendizado não supervisionado: clustering e redução de dimensionalidade. Modelagem preditiva e prescritiva. Análise de redes sociais e dados relacionais.
+
 ## Organização
 
 | Pasta | Conteúdo |
